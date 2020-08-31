@@ -1,5 +1,5 @@
 # Hi, I'm Jenna!
-![Profile Banner](https://raw.githubusercontent.com/JennaEverard/JennaEverard/master/img/ProfileBanner.png)
+![Profile Banner](https://raw.githubusercontent.com/JennaEverard/JennaEverard/master/img/ProfileBannerAugust.png)
 <!--
 **JennaEverard/JennaEverard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
