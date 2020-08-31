@@ -1,5 +1,5 @@
 ### Hi, I'm Jenna!
-![Profile Banner](https://www.canva.com/design/DAEGaHINd-U/WsRzpaI3wDFzFb_jgF9bkg/view?utm_content=DAEGaHINd-U&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+![Profile Banner](/img/ProfileBanner.jpg)
 <!--
 **JennaEverard/JennaEverard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
