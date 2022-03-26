@@ -1,5 +1,5 @@
 # Hi, I'm Jenna!
-![Profile Banner](https://raw.githubusercontent.com/JennaEverard/JennaEverard/master/img/ProfileBanner.png)
+![Profile Banner](https://raw.githubusercontent.com/JennaEverard/JennaEverard/master/img/ProfileBannerFull.png)
 
 ### I'm Currently Working On...
 - :globe_with_meridians: Web management and re-design for [Respect(Ed)](https://www.respectedpeereducation.org/)
